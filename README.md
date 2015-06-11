@@ -6,7 +6,7 @@ This project shows you how to create a simplee CRUD app using the [Koa](http://k
 Use
 ---
 
-To run this example, first launch a local [MonoDB](https://www.mongodb.org/) instance.
+To run this example, first launch a local [MongoDB](https://www.mongodb.org/) instance.
 
     mongod
 
